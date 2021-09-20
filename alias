@@ -1,0 +1,1 @@
+.alias rmds=find . -type f -name '*.DS_Store' -ls -delete
