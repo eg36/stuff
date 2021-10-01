@@ -1,12 +1,14 @@
-
+# cd
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
+
+# tbr
 alias tbr='sudo pkill TouchBarServer;'
 alias tbc='sudo killall “ControlStrip”;'
 
 
-
+# remove .DS_Store
 alias rmds=find . -type f -name '*.DS_Store' -ls -delete
