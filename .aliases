@@ -4,7 +4,8 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
 
-
+alias tbr='sudo pkill TouchBarServer;'
+alias tbc='sudo killall “ControlStrip”;'
 
 
 
